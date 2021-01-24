@@ -1,0 +1,19 @@
+https://sourceforge.net/projects/mingw-w64/
+Scaricate da qua
+Qui trovate il compilatore.
+Quando richiesto installate solo il pacchetto mingw32-base-bin e in alto a sinistra fate Installation -> Apply changes
+Vi consiglio di aprirlo come amministratore e installarlo per tutti gli utenti
+
+Dopodiché dovete andare su Start;
+cercate "Modifica le variabili d'ambiente relative al sistema";
+cliccate variabili d'ambiente;
+nella sezione in basso, scorrete fino a "Path", lo selezionate e cliccate "Modifica...";
+Se avete Windows 8:
+>vi si apriranno due campi di inserimento, in fondo al >secondo aggiungete ";C:\MinGW\bin\"
+Attenzione a non scordare il ";"
+Se avete Windows 10:
+>fate "Nuovo" e nella barra di inserimento scrivete
+"C:\MinGW\bin\"
+
+A questo punto dopo un riavvio del computer aprite il pompt dei comandi (cmd su start) e scrivete gcc;
+se non vi dice comando sconosciuto e vi dà una specie di errore avete fatto tutto bene, altrimenti chiedete a me
