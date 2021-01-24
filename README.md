@@ -8,3 +8,6 @@ Qui trovate l'elenco delle lezioni di informatica fatte fino ad adesso!
 - [ ] - Lezione 4: I tipi di variabile e le espressioni
 - [ ] - Lezione 5: Il costrutto di controllo "if", come usare il compilatore, la funzione printf(...) e le espressioni logiche
 - [ ] - Lezione 6: Gli escape characters e la funzione scanf()
+
+#### Sopra trovate le discussioni per togliervi tutti i dubbi> che avete!
+#### Ma ricordatevi che ci trovate anche su [ItalianHUB](https://discord.gg/3Yfe4XGFG3) ogni martedì e giovedì alle 18 per fare una nuova lezione insieme!<br>Vi aspettiamo!
